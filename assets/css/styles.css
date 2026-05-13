@@ -521,8 +521,8 @@ a {
 
 .member__control-btn:hover {
   color: #ffffff;
-  border-color: #2e80ce;
-  background: #2e80ce;
+  border-color: var(--primary-color);
+  background: var(--primary-color);
   cursor: pointer;
 }
 
@@ -541,7 +541,7 @@ a {
   justify-content: space-between;
   padding: 0px 70px;
   border-radius: 4px;
-  background: #2e80ce;
+  background: var(--primary-color);
 }
 
 .install__img {
